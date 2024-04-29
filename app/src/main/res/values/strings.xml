@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">PokeStat</string>
+    <string name="pokemon_name">Enter Name</string>
+    <string name="enter_p_name">Enter Pokemon\'s name</string>
+    <string name="search_B">SEARCH</string>
+    <string name="exit_B">EXIT</string>
+    <string name="title_activity_info_pokemon" translatable="false">InfoPokemon</string>
+    <string name="Pokemon_S">Pokemon searched</string>
+    <string name="Pokemon_S_N"> Pokemon searched name </string>
+    <string name="Type_P" translatable="false">Type</string>
+    <string name="Type_P_V"> Pokemon type value</string>
+    <string name="Weight_P">Weight</string>
+    <string name="Weight_P_V">Pokemon weight value</string>
+    <string name="Size_P">Size</string>
+    <string name="Size_P_V">Pokemon size value</string>
+    <string name="search_webB"> Search Pokemon Website</string>
+    <string name="error_no_dom_entity" translatable="false">No DOM entity found</string>
+    <string name="end_request" translatable="false">End Pokepedia Request </string>
+    <string name="back">Back</string>
+
+</resources>

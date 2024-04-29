@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokeStat</string>
+    <string name="pokemon_name">Donnez le nom</string>
+    <string name="enter_p_name">Donnez le nom du Pokemon</string>
+    <string name="search_B">Recherche</string>
+    <string name="exit_B">Sortie</string>
+    <string name="Pokemon_S">Pokemon rechercher</string>
+    <string name="Pokemon_S_N">Nom Pokemon  Rechercher</string>
+    <string name="Type_P_V">Type Pokemon valeur</string>
+    <string name="Weight_P">Poids</string>
+    <string name="Weight_P_V">Valeur Poids Pokemon</string>
+    <string name="Size_P">Taille</string>
+    <string name="Size_P_V">"Valeur de la taille Pokemon "</string>
+    <string name="search_webB">Site Web Pokemon</string>
+    <string name="back">Return</string>
+</resources>
